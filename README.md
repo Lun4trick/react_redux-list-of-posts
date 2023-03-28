@@ -1,10 +1,6 @@
 # React + Redux list of posts
 
-You have the already implemented
-[Dynamic list of posts](https://github.com/mate-academy/react_dynamic-list-of-posts#react_dynamic-list-of-posts)
-and the `Counter` example of Redux Toolkit usage.
-
-> Here is the [working DEMO](https://mate-academy.github.io/react_redux-list-of-posts/)
+[My DEMO](https://lun4trick.github.io/react_redux-list-of-posts/)
 
 Learn the implemented App and the example and reimplement it with Redux having the next slice:
 - `users` and remove `UsersContext`;
